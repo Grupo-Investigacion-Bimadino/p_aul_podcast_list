@@ -1,0 +1,10 @@
+{"usuarios": [
+    { "id": 1, "nickname": "", "password": "" }
+  ],
+"podcasts": [
+    { "id": 1, "titulo":"", "description": "some comment", "path": "./podcast1.mp3", "format":"mp3", "userId":1 }
+  ],
+"comentarios":[
+    { "body": "", "userId":2, "podcastId":1 }
+]
+}
